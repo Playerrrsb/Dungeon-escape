@@ -6,3 +6,4 @@ Extract both file and open "d e" file to play.
 Control:
 Press "Left click" to attack. Press "Arrow keys" or "W"/"A"/"S"/"D" to move. press "Space" to jump.
 
+The game is not fully developed yet.
